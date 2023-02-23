@@ -1,0 +1,17 @@
+
+
+
+
+
+#sensorData{
+  width: 100%;
+  border: 1px solid #000;
+  margin-bottom: 100px;
+}
+
+th, td{
+  border: 1px solid #000;
+  width: 30vw !important;
+  display: inline-block;
+  margin-bottom: 30px;
+}

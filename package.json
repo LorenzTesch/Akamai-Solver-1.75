@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-cookiejar-support": "^4.0.3",
+    "node-fetch": "^3.2.10",
+    "url": "^0.11.0"
+  }
+}
